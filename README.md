@@ -1,1 +1,1 @@
-# project6 for batch7
+# project6 for batch6
